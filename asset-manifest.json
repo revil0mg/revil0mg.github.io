@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.7b82da8b.chunk.css",
-    "main.js": "/static/js/main.494882a4.chunk.js",
-    "main.js.map": "/static/js/main.494882a4.chunk.js.map",
+    "main.js": "/static/js/main.0c20655a.chunk.js",
+    "main.js.map": "/static/js/main.0c20655a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2781e2dc.js",
     "runtime-main.js.map": "/static/js/runtime-main.2781e2dc.js.map",
-    "static/js/2.d9f563b1.chunk.js": "/static/js/2.d9f563b1.chunk.js",
-    "static/js/2.d9f563b1.chunk.js.map": "/static/js/2.d9f563b1.chunk.js.map",
+    "static/js/2.f9f4949a.chunk.js": "/static/js/2.f9f4949a.chunk.js",
+    "static/js/2.f9f4949a.chunk.js.map": "/static/js/2.f9f4949a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.0b2233c65038344f2406a138d4a37bef.js": "/precache-manifest.0b2233c65038344f2406a138d4a37bef.js",
+    "precache-manifest.120ee41164997752a671331f4ced2d75.js": "/precache-manifest.120ee41164997752a671331f4ced2d75.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.7b82da8b.chunk.css.map": "/static/css/main.7b82da8b.chunk.css.map",
     "static/media/Adobe_Flash_CS4_logo.png": "/static/media/Adobe_Flash_CS4_logo.6a9f65a6.png",
@@ -22,6 +22,7 @@
     "static/media/animated_ashutosh.png": "/static/media/animated_ashutosh.eaf02c2d.png",
     "static/media/animated_logo.svg": "/static/media/animated_logo.dcd6dee2.svg",
     "static/media/blogs_image.svg": "/static/media/blogs_image.058eca4c.svg",
+    "static/media/c_sharp_logo.png": "/static/media/c_sharp_logo.c3e10f25.png",
     "static/media/cloud_infrastructure.svg": "/static/media/cloud_infrastructure.cacbc42b.svg",
     "static/media/codeInLogo.png": "/static/media/codeInLogo.fee92c18.png",
     "static/media/contactMail.png": "/static/media/contactMail.5f915405.png",
@@ -41,6 +42,7 @@
     "static/media/ibm_logo.png": "/static/media/ibm_logo.d3fccbe1.png",
     "static/media/iiitk_logo.png": "/static/media/iiitk_logo.571a8584.png",
     "static/media/intel_logo.jpg": "/static/media/intel_logo.29152cf7.jpg",
+    "static/media/isg_dark_logo.png": "/static/media/isg_dark_logo.0969d1b1.png",
     "static/media/iu_logo.png": "/static/media/iu_logo.60ed0bd3.png",
     "static/media/jsFramework.svg": "/static/media/jsFramework.5b4a6449.svg",
     "static/media/legato_logo.png": "/static/media/legato_logo.c597fbde.png",
@@ -65,12 +67,14 @@
     "static/media/undraw_web_developer.svg": "/static/media/undraw_web_developer.e37e6f8f.svg",
     "static/media/utep_blue_background_logo.png": "/static/media/utep_blue_background_logo.300f947b.png",
     "static/media/utep_logo.png": "/static/media/utep_logo.a5c4a4c3.png",
-    "static/media/utep_orange_background_logo.png": "/static/media/utep_orange_background_logo.f6d958c5.png"
+    "static/media/utep_orange_background_logo.png": "/static/media/utep_orange_background_logo.f6d958c5.png",
+    "static/media/visual_studio_logo.png": "/static/media/visual_studio_logo.d0f8419b.png",
+    "static/media/vscode_logo.png": "/static/media/vscode_logo.225fbbe0.png"
   },
   "entrypoints": [
     "static/js/runtime-main.2781e2dc.js",
-    "static/js/2.d9f563b1.chunk.js",
+    "static/js/2.f9f4949a.chunk.js",
     "static/css/main.7b82da8b.chunk.css",
-    "static/js/main.494882a4.chunk.js"
+    "static/js/main.0c20655a.chunk.js"
   ]
 }
